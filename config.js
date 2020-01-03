@@ -30,19 +30,11 @@ module.exports = {
     bio: '',
     contacts: {
       email: 'mail@razumau.net',
-      // facebook: '#',
-      // telegram: '#',
+      telegram: '#',
       twitter: 'razumau',
       github: 'razumau',
-      // rss: '',
-      // vkontakte: '',
-      // linkedin: '#',
-      // instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: ''
+      rss: '',
+      linkedin: '#',
     }
   }
 };
