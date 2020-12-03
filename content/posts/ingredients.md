@@ -28,7 +28,7 @@ Here’s one way people (Brazilian researcher Carlos Monteiro and colleagues) ar
 
 Oh boy. You can already see a lot of potential for lobbying, litigation, and unintended consequences if this classification becomes popular with governments (Can I add vitamins to my bread? Why are my soya extracts getting taxed?). However, this is good enough for studies, where you can just ignore grey areas and feed people either strictly broccoli with olive oil, or strictly muffins with crackers. Which is almost exactly what [Kevin Hall et al. did](https://doi.org/10.1016/j.cmet.2019.05.008): they got 20 people, split them into two groups, locked in a hospital for a month, monitored them closely, and got this graph:
 
-![Processed vs. Unprocessed](/media/ingredients_processed_unprocessed.png)
+![Processed vs. Unprocessed](/media/ingredients_processed_unprocessed.jpg)
 
 (You could eat as much as you can, so ultra-processed food is either more energy-dense or tastier or both.)
 
@@ -96,7 +96,7 @@ I left out #4 because to me it seems not just a pothole, but an enormous black h
 #### IV
 That chapter is John Ioannidis (the guy of “Why Most Published Research Findings are False” fame—and of much less inspiring [recent](https://www.buzzfeednews.com/article/stephaniemlee/stanford-coronavirus-neeleman-ioannidis-whistleblower) [fame](https://statmodeling.stat.columbia.edu/2020/04/19/fatal-flaws-in-stanford-study-of-coronavirus-prevalence/)) vs. the world of nutritional epidemiology. Here’s Ioannidis’ main concern, drawn by Zaidan:
 
-/media/static/ingredients_accociations.png
+![Associations](/media/ingredients_accociations.png)
 
 There are hundreds of foods and hundreds of diseases, which means tens of thousands of hypotheses. Even 5% of those would mean hundreds of potential studies that will find enough statistical significance in all this noise to generate headlines like “Milk consumption associated with 15% higher risk of depression”. Worse still, you won’t be able to tell if milk causes depression (or if it’s actually broccoli that decreases the risk of heart problems) without additional randomized trials.
 
