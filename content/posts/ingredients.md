@@ -1,5 +1,5 @@
 ---
-title: Georde Zaidan’s Ingredients
+title: George Zaidan’s Ingredients
 date: "2020-12-02T10:26:47.000Z"
 template: "post"
 draft: false
