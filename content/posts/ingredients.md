@@ -7,7 +7,7 @@ slug: "ingredients-review"
 category: "books"
 tags:
   - "books"
-description: ""
+description: "A very good (and rather short) book on the current state of nutrition science"
 ---
 
 #### I
