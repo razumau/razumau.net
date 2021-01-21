@@ -7,8 +7,7 @@ module.exports = {
   subtitle: '',
   copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
   useKatex: false,
   menu: [
     {
@@ -27,7 +26,7 @@ module.exports = {
   author: {
     name: 'Jury Razumau',
     photo: '/photo.jpg',
-    bio: '',
+    bio: 'Software engineer from Belarus living in Kraków',
     contacts: {
       email: 'mail@razumau.net',
       twitter: 'razumau',
