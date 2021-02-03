@@ -6,8 +6,8 @@ draft: false
 slug: "books-january-2021"
 category: "books"
 tags:
-- "books"
-  description: "Seven books that I’ve read in January"
+  - "books"
+description: "Seven books that I’ve read in January"
 ---
 A two-sentence summary of *[Apocalypse Never](https://www.goodreads.com/book/show/50173134-apocalypse-never)* by Michael Shellenberger: 1. Climate change is bad, but not that bad and won’t kill billions. 2. The best long-term solution is for everyone to become rich.
 
